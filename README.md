@@ -17,6 +17,7 @@ I'm currently pursuing a Master's degree in Computational Materials Science from
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vmkyedunuthala/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&color=0077B5&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.xing.com/profile/VenkataMukundKashyap_Yedunuthala"><img src="https://img.shields.io/badge/Xing--_.svg?style=flat-square&color=006567&labelColor=006567&logo=xing" alt="Xing"></a>
   <a href="https://gitlab.com/MukundKashyap97"><img src="https://img.shields.io/badge/GitLab--_.svg?style=flat-square&color=FCA121&logo=gitlab" alt="GitLab"></a>
-  <a href="https://www.xing.com/profile/VenkataMukundKashyap_Yedunuthala"><img src="https://img.shields.io/badge/Xing--_.svg?style=flat-square&color=006567&logo=xing" alt="Xing"></a>
+  <a href="https://github.com/MukundKashyap97"><img src="https://img.shields.io/badge/GitHub--_.svg?style=flat-square&color=181717&labelColor=181717&logo=github" alt="GitHub"></a>
 </p>
