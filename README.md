@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 I'm currently pursuing a Master's degree in Computational Materials Science from TU Bergakademie Freiberg, Germany. I'm mostly excited about the infusion of ever-evolving programming paradigms into engineering disciplines related to Mechanical engineering, as well as a strong interest in content writing/blogging. Currently, I'm learning to code in Python, C++, and MATLAB. This is a collection of my work that I'm allowed to share.
 
 ### Recent Projects
-1. Submission for module Nonlinear Finite Element Methods Hosted on [GitLab](https://gitlab.com/MukundKashyap97/nfem-st2020-submission). ([Project Wiki](https://gitlab.com/MukundKashyap97/nfem-st2020-submission/-/wikis/_sidebar/))
+1. Submission for module Nonlinear Finite Element Methods Hosted on [GitLab](https://gitlab.com/MukundKashyap97/nfem-st2020-submission). ([Project Wiki](https://gitlab.com/MukundKashyap97/nfem-st2020-submission/-/wikis/home))
 1. WIP: Submission for module Software Tools for Computational Materials Scientists, a package called [PyGeo](https://github.com/MukundKashyap97/65163_sotol1920_submission).
 
 
