@@ -1,10 +1,8 @@
-### Hi there 👋
-
+##                                                            Hi, I'm Mukund Kashyap!
 <!--
 **MukundKashyap97/MukundKashyap97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently pursuing a Master's degree in Computational Materials Science from TU Bergakademie Freiberg, Germany. I'm mostly excited about the infusion of ever-evolving programming paradigms into engineering disciplines related to Mechanical engineering. Currently, I'm learning to code in Python, C++, and MATLAB. This is a collection of my work that I'm allowed to share. 
