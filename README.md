@@ -7,11 +7,13 @@ I'm currently pursuing a Master's degree in Computational Materials Science from
 
 
 ### My work elsewhere
-1. Collection of articles I curated and authored for STSTW Media, a social media brand based in my hometown, can be found [here](https://www.ststworld.com/author/mukund-kashyap/). I shall remain grateful for this opportunity, as it helped hone my content creation skills.
+1. Collection of articles I curated and authored for STSTW Media, a social media brand based in my hometown, can be found [STSTW Media](https://www.ststworld.com/author/mukund-kashyap/) website. I shall remain grateful for this opportunity, as it helped hone my content creation skills.
 
 
 
 #### Reach me across internet here
+E-mail: [Mukund.Yedunuthala@student.tu-freiberg.de](mailto:Mukund.Yedunuthala@student.tu-freiberg.de)\
+Other platforms:
 <p align="center">
   <a href="https://www.linkedin.com/in/vmkyedunuthala/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&color=0077B5&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.xing.com/profile/VenkataMukundKashyap_Yedunuthala"><img src="https://img.shields.io/badge/Xing--_.svg?style=flat-square&color=006567&labelColor=006567&logo=xing" alt="Xing"></a>
