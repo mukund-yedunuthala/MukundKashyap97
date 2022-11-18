@@ -1,4 +1,4 @@
-##                                                            Hello, [I'm Mukund!](https://mukund-yedunuthala.gitlab.io/)
+##                                                            Hello, [I'm Mukund!](https://mukund-yedunuthala.github.io/)
 I'm currently pursuing a Master's degree in Computational Materials Science from TU Bergakademie Freiberg, Germany. I'm enthusiastic about the abilities afforded by programming concepts in engineering disciplines such as Mechanical engineering. I am also interested in content generation/blogging. Currently, I'm learning to code in Python, C++, and MATLAB. Shown here is a collection of my work.
 
 ### Recent Projects
