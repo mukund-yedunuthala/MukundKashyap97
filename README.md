@@ -45,6 +45,6 @@ Other platforms:
 <p align="center">
   <a href="https://www.linkedin.com/in/vmkyedunuthala/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&color=0077B5&logo=linkedin" alt="LinkedIn"></a>&ensp;
   <a href="https://www.xing.com/profile/VenkataMukundKashyap_Yedunuthala"><img src="https://img.shields.io/badge/Xing--_.svg?style=flat-square&color=006567&labelColor=006567&logo=xing" alt="Xing"></a>&ensp;
-  <a href="https://home.social/@mukskashyap"><img src="https://img.shields.io/badge/Mastodon--_.svg?style=flat-square&color=6364FF&labelColor=17063B&logo=mastodon" alt="Mastodon"></a>
+  <a href="https://calckey.social/@mukskashyap"><img src="https://img.shields.io/badge/Calckey--%239ccfd8?style=flat-square&labelColor=31748f" alt="Calckey"></a>&ensp;
 </p>
 
