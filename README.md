@@ -9,7 +9,7 @@ I'm currently pursuing a Master's degree in Computational Materials Science from
 <p align="center">
 <a href="https://github.com/topics/cpp"><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"  height="40"></a>&emsp;
 <a href="https://github.com/topics/python"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  height="40"></a>&emsp;
-<a href="https://github.com/topics/fortran"><img src="https://raw.githubusercontent.com/github/explore/5103391a5a07b690f170019df10d2e6f9d1f3b09/topics/fortran/fortran.png"  height="40"></a>
+<!--<a href="https://github.com/topics/fortran"><img src="https://raw.githubusercontent.com/github/explore/5103391a5a07b690f170019df10d2e6f9d1f3b09%%/topics/fortran/fortran.png"  height="40"></a>-->
 </p>
 
 ### Tools I use 
@@ -37,14 +37,14 @@ E-mail: [Mukund.Yedunuthala@student.tu-freiberg.de](mailto:Mukund.Yedunuthala@st
 
 GitHub and GitLab:
 <p align="center">
-  <a href="https://gitlab.com/mukund-yedunuthala"><img src="https://img.shields.io/badge/GitLab--_.svg?style=flat-square&color=FCA121&logo=gitlab" alt="GitLab"></a>&ensp;
-  <a href="https://github.com/mukund-yedunuthala"><img src="https://img.shields.io/badge/GitHub--_.svg?style=flat-square&color=181717&labelColor=181717&logo=github" alt="GitHub"></a>
+  <a href="https://gitlab.com/mukund-yedunuthala"><img src="https://img.shields.io/badge/GitLab--_.svg?color=FCA121&logo=gitlab" alt="GitLab"></a>&ensp;
+  <a href="https://github.com/mukund-yedunuthala"><img src="https://img.shields.io/badge/GitHub--_.svg?color=181717&labelColor=181717&logo=github" alt="GitHub"></a>
 </p>
 
 Other platforms:
 <p align="center">
   <a href="https://www.linkedin.com/in/vmkyedunuthala/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&color=0077B5&logo=linkedin" alt="LinkedIn"></a>&ensp;
   <a href="https://www.xing.com/profile/VenkataMukundKashyap_Yedunuthala"><img src="https://img.shields.io/badge/Xing--_.svg?style=flat-square&color=006567&labelColor=006567&logo=xing" alt="Xing"></a>&ensp;
-  <a href="https://calckey.social/@mukskashyap"><img src="https://img.shields.io/badge/Calckey--%239ccfd8?style=flat-square&labelColor=31748f" alt="Calckey"></a>&ensp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Firefish-f6c177?style=flat-square&logoColor=eb6f92&link=https%3A%2F%2Ffirefish.social%2F%40mukskashyap">
 </p>
 
